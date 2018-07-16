@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+}
+
+.content1 {
+    border-radius: 3px;
+    padding: 10px;
+    text-align: justify;
+    width: 85%;
+    position: absolute;
+    left: 7.5%;
+    background-color: #bebebe;
+}
+
+ul {
+    line-height: 45px;
+}
